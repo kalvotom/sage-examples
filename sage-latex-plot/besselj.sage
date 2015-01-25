@@ -12,6 +12,7 @@ output = u"""\\documentclass{standalone}
 \\usepackage[utf8]{inputenc}
 \\usepackage[T1]{fontenc}
 \\usepackage{pgfplots}
+\\pgfplotsset{compat=1.11}
 
 \\begin{document}
 
