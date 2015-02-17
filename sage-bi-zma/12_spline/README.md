@@ -1,0 +1,3 @@
+# Splines
+
+Ukázka kubické interpolace.
