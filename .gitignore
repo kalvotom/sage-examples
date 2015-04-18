@@ -1,0 +1,5 @@
+.ipynb*
+*.log
+*.aux
+*.sage.py
+*.swp
