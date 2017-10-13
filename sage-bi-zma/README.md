@@ -1,10 +1,27 @@
-# Ukázky pro BI-ZMA v Sage
+# Ukázky pro BI-ZMA v SageMath
 
-Zde uvedené Sage worksheety byly vytvořeny za podpory RPMT grantu na FIT ČVUT v roce 2014. Na jejich tvorbě se podíleli studenti Jana Ernekerová, Klára Drhové, David Bernhauer a Tomáš Kasalický pod vedením Tomáše Kalvody.
+Zde uvedené materiály byly vytvořeny za podpory RPMT grantu na [FIT ČVUT](https://www.fit.cvut.cz) v roce 2014.
+Na jejich tvorbě se podíleli studenti Jana Ernekerová, Klára Drhové, David Bernhauer a Tomáš Kasalický pod vedením Tomáše Kalvody.
+Během zimního semestru 2017/2018 bude probíhat převod těchto materiálů do populárnějšího [Jupyter notebook](https://jupyter.org) formátu.
+
+## Co je SageMath?
+
+[SageMath](https://www.sagemath.org) je open-source počítačový algebraický systém.
+V řaďě ohledů ho lze považovat za plnohodnotnou alternativu k MMM (Mathematica-Maple-Matlab).
+
+SageMath lze instalovat lokálně na Linux, MacOS i Windows.
+Instalace ale není nutná.
+Se SageMath lze pracovat on-line pomocí cloudové služby [Cocalc](https://www.cocalc.com).
+Tato služba toho ale nabízí daleko víc, například podporu pro kolaborativní tvorbu kódu.
+
+Alternativně lze k prohlížení těchto materiálů použít i samotný Github (umí zobrazit většinu obsahu `*.ipynb` souborů).
+Další možností je specializovaný [nbviewer](nbviewer.jupyter.org/github/kalvotom/sage-examples/tree/master/sage-bi-zma/).
+
+## Obsah
 
   1. Úvod do Sage
   2. Elementární funkce
-  3. Odmocňování v R a C
+  3. Odmocňování v reálném a komplexním oboru
   4. Funkce
   5. Limita posloupnosti
   6. Limita funkce
